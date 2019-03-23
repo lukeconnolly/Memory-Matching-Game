@@ -1,0 +1,29 @@
+/*Name: 		Luke Connolly
+  Student Number: 100999531
+  This file is the css file for the page index.html, it styles the page
+*/
+
+body{
+	background-color:#adad85;
+	color: #ffffff;
+}
+
+.cardBack{
+	background-color:#ff6666;
+	display:inline-block;
+	vertical-align:top;
+	height:100px;
+	width:100px;
+}
+
+.cardFace{
+	background-color:#ffffff;
+	display:inline-block;
+	vertical-align:top;
+	height:100px;
+	width:100px;
+	color:#000000
+}
+h1{
+	color:#3333ff
+}
